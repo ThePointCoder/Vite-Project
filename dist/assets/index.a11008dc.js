@@ -1,0 +1,1 @@
+import{R as e,a as t}from"./vendor.956c2a31.js";function n(){return e.createElement("div",{className:"App h-screen grid justify-center bg-blue-400"},e.createElement("img",{src:"/assets/favicon.17e50649.svg",alt:"favicon"}))}t.render(e.createElement(e.StrictMode,null,e.createElement(n,null)),document.getElementById("root"));
